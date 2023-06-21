@@ -14,6 +14,8 @@
  * Bar modules
  */
 
+#define VANITYGAPS_PATCHR 1
+
 /* Enhanced taskbar that shows the titles of all visible windows in the status bar
  * and allows focus / hiding / unhiding of windows by clicking on the status bar.
  * Awesomebar takes precedence over fancybar.
@@ -908,7 +910,7 @@
  *
  * https://github.com/bakkeby/patches/wiki/renamedscratchpads
  */
-#define RENAMED_SCRATCHPADS_PATCH 0
+#define RENAMED_SCRATCHPADS_PATCH 1
 
 /* Renamed scratchpads option to auto-hide scratchpads when moving to a different tag.
  * This behaviour is similar to that of the (multiple) scratchpads patch. */
