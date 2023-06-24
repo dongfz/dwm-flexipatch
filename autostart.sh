@@ -11,7 +11,7 @@ export http_proxy=http://localhost:7890
 /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
 
 # feh --recursive --bg-fill --randomize ~/dwm-flexipatch/wallpaper &
-# picom &
+picom &
 fcitx5 &
 
 variety &
